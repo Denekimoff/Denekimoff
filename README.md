@@ -1,6 +1,6 @@
 <h1 align="center">:wave: Hello there! I'm Denis Ekimov</h1>
 
-<h4 align="left">I'm a Front-end Web Developer from Belarus&#127463;&#127486;</h4>
+<h4 align="left">I'm a Front-end Web Developer from Belarus  &#127463;&#127486;</h4>
 
 <h2 align="left" id="my-stack">Tech stack</h2>
 
@@ -75,7 +75,6 @@
 > Frontend
 
 <table width='100%'>
-s  <>
     <td align="center" width="96">
       <a href="#my-stack">
         <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="48" height="48" alt="React" />
