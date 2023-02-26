@@ -1,6 +1,6 @@
-<h1 align="center">:wave: Hello there! I'm Denis Ekimov</h1>
+<h1 align="center">:wave: Hello there! My name Denis Ekimov</h1>
 
-<h4 align="left">I'm a Front-end Web Developer from Belarus  &#127463;&#127486;</h4>
+<h4 align="left">and I'm a Front-end Web Developer from Belarus  &#127463;&#127486;</h4>
 
 <h2 align="left" id="my-stack">Tech stack</h2>
 
