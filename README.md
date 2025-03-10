@@ -153,8 +153,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Denekimoff&show_icons=true&locale=en&layout=compact&theme=react" alt="ekimov-stack" />
 </a>
 
-- :comet: &nbsp;**[Github](https://github.com/Denekimoff)**
 - :airplane: &nbsp;**[Telegram](https://t.me/DenisEkimoff)**
-- :camera: &nbsp;**[Instagram](https://www.instagram.com/denis.ekimoff/)**
 
 <br>
